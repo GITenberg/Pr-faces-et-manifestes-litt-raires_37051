@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5694
     wikipedia: http://fr.wikipedia.org/wiki/Jules_de_Goncourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37051#Pr-faces-et-manifestes-litt-raires
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2011-08-12'
 gutenberg_type: Text
